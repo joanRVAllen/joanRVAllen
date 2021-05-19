@@ -20,6 +20,6 @@
 - Spotify Suggestor
 
 
-### Fun Fact
+### Fun Facts
 - I sing 🎤😏
 - I play the uke pretty well 🎸 

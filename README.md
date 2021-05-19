@@ -18,3 +18,8 @@
 ### Projects: (contributor)
 - Human Rights First: Blue Witness
 - Spotify Suggestor
+
+
+### Fun Fact
+- I sing 🎤😏
+- I play the uke pretty well 🎸 

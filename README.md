@@ -16,6 +16,7 @@
 
 
 ### Projects: (contributor)
+[Portfolio](https://joanrvallen.github.io/joanvillar/)
 - Human Rights First: Blue Witness
 - Spotify Suggestor
 

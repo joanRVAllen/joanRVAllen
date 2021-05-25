@@ -12,7 +12,10 @@
 ### Technical Skills
 - Python
 - SQL
-- Postgres
+- PostgreSQL
+- MongDB
+- Flask
+- FastAPI
 
 
 ### Projects: (contributor)
